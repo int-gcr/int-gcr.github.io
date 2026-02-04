@@ -32,13 +32,16 @@ hr {
 }
 
 .pastproject{
+  background-color: #f9f9f9;
+  align-items: center;
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 30px;
   margin-top: 250px;
 }
 
 .project{
+  padding:50px;
   text-align: center;
   max-width: 825px;
 }
@@ -46,4 +49,12 @@ hr {
 p {
   font-size: 50px;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.about{
+  margin:5px;
+}
+
+.skillsandabouttext{
+
 }
